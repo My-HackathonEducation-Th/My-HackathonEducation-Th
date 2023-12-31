@@ -70,13 +70,7 @@ git push origin main
 ```
 git push -u origin <your_branch_name>
 ```
----
 
-- Cr พงศ์วุฒิ  
-- LINE : Pttlove23
-- Telegram https://t.me/Ciwallet +66840320193
-
----
 
 
 
@@ -138,10 +132,7 @@ git push -u origin <your_branch_name>
 
 > ภาพ: หน้าปกอัลบั้มแรกของ Li Jian "Times Like Water"
                 
-----
 
-
-                
 ----
                     
 ### Tables
@@ -246,7 +237,15 @@ Andrew->China: Says Hello
 Note right of China: China thinks\nabout it 
 China-->Andrew: How are you? 
 Andrew->>China: I am good thanks!
+
 ```
+
+
+
+**นั้นละครับท่านผู้ชม สรุปคือ คุณไม่จำเป็น ต้องเขียนโปรแกรมด้วย html css javascript หรือ deployment เว็บไซต์ การจดทะเบียน โดเมน การเช่าโฮลดิ้ง ฯ มันฟรี!ขั้นสูงกว่า เช่น React , Vue ฉันอยากมีเวบไชต์ที่ตอบสนอง การเเสดงผล ทั้ง Laptop,มือถือ เเบบ React , Vue เเบบหรูๆ ก็ลอง ค้นหาเครื่องมือ สร้างเว็บไซต์แบบลากและวางโอเพ่นซอร์สโดยใช้ React
+              CMS  React , Vue, Svelte, Qwik และอีกมากมาย - GitHub - Build-React , Vue หากเป็นประโยขน์เนอะ**
+
+
 
 ### เรียนรู้เพิ่มเติม ที่.. Editor.md [คุณสมบัติพิเศษเพิ่มเติม](./Editor.md) การสร้างไฟล์ .md เเบบง่ายๆ
 
@@ -271,10 +270,16 @@ Andrew->>China: I am good thanks!
 
 
 
+---
 
-
+- Cr พงศ์วุฒิ  
+- LINE : Pttlove23
+- Telegram https://t.me/Ciwallet +66840320193
 
 ---
+
+
+
 
 <!--
 **hack-by-th-education/hack-by-th-education** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
