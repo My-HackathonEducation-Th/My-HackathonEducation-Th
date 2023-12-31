@@ -72,7 +72,7 @@ git push -u origin <your_branch_name>
 ```
 
 
-
+---
 
 ###  <p align="center">เกร็ดน่ารู้! สำหรับ README ไฟล์
 
