@@ -125,7 +125,7 @@
 
 ----
 
-- ⚡ Fun fact **I think**
+
 
 <h3 align="left">Connect with ⚡ Fun fact I think :</h3>
 <p align="left">
