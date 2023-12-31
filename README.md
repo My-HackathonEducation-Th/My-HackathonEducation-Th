@@ -99,9 +99,10 @@ git push -u origin <your_branch_name>
 - สนับสนุนการระบุการตีความ, fliter ของแท็ก HTML;
 - รองรับ Tex (Expressions LaTex ขึ้นอยู่กับ Katex), ผังงานและแผนภาพลำดับของไวยากรณ์ขยาย Markdown;
 - รองรับ AMD/CMD (require.js & sea.js) โหลดเดอร์และปลั๊กอินตัวแก้ไขที่กำหนดเอง/กำหนดเอง;
-### Editor.md [คุณสมบัติพิเศษเพิ่มเติม](./Editor.md) สร้างไฟล์ .md เเบบง่ายๆ
+- 
 
-### วางคำสั่ง เช่นนี้ ด้านล่าง คือ การเเสดงผล
+
+### ตัวอย่างเช่น การวางคำสั่ง เช่นนี้ หมายถึง ต้องการ ใส่ลิ้งพร้อมรูปภาพ
 
 ```
 > Follow your heart.
@@ -136,37 +137,7 @@ git push -u origin <your_branch_name>
                 
 ----
 
-### Lists
 
-#### Unordered list (-)
-
-- Item A
-- Item B
-- Item C
-     
-#### Unordered list (*)
-
-* Item A
-* Item B
-* Item C
-
-#### Unordered list (plus sign and nested)
-                
-+ Item A
-+ Item B
-    + Item B 1
-    + Item B 2
-    + Item B 3
-+ Item C
-    * Item C 1
-    * Item C 2
-    * Item C 3
-
-#### Ordered list
-                
-1. Item A
-2. Item B
-3. Item C
                 
 ----
                     
@@ -274,14 +245,14 @@ China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
 
-### End
+### เรียนรู้เพิ่มเติม ที่.. Editor.md [คุณสมบัติพิเศษเพิ่มเติม](./Editor.md) การสร้างไฟล์ .md เเบบง่ายๆ
 
 
 ---
 
 
 
-<h3 align="center">พื้นที่เก็บข้อมูล รูปภาพ เเละเอกสาร เเบบส่วนตัว ไม่มีจำกัด!</h3>
+<h3 align="center">ฉันสนับสนุนคนไทยใช้ GitHub</h3>
 
 ---
 
