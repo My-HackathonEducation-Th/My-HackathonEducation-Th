@@ -8,6 +8,16 @@
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
+
+คุณสมบัติ
+- สนับสนุน Markdown มาตรฐาน / Commonmark และ GFM (GitHub Flavored Markdown);
+- เต็มรูปแบบ:ตัวอย่างเรียลไทม์ภาพ (ข้ามโดเมน) อัพโหลด, บล็อกข้อความ/รหัส preformatted, การแทรก/ตาราง, การพับ, ค้นหาแทนที่, อ่านเท่านั้น, ธีม, หลายภาษา, L18N, เอนทตี HTML, การเน้นไวยากรณ์รหัส .. ;
+- markdown extras: สนับสนุน TOC (สารบัญ), อิโมจิ, รายการงาน, @links ... ;
+- เข้ากันได้กับเบราว์เซอร์หลักทั้งหมด (IE8+), Zepto.js และ iPad 
+- สนับสนุนการระบุการตีความ, fliter ของแท็ก HTML;
+- รองรับ Tex (Expressions LaTex ขึ้นอยู่กับ Katex), ผังงานและแผนภาพลำดับของไวยากรณ์ขยาย Markdown;
+- รองรับ AMD/CMD (require.js & sea.js) โหลดเดอร์และปลั๊กอินตัวแก้ไขที่กำหนดเอง/กำหนดเอง;
+
 # Editor.md
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
