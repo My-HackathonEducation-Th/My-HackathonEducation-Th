@@ -107,10 +107,10 @@ git push -u origin <your_branch_name>
 ```
 > Follow your heart.
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/Li.jpg)
 
-> ภาพ: หาดเซียะเหมินไป่เฉิง
- Xiamen
+> ภาพ: นางฟ้า
+ Bp
 
 
 รูปพร้อมลิงค์ (Image + Link)：
@@ -123,10 +123,10 @@ git push -u origin <your_branch_name>
 
 > Follow your heart.
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/Li.jpg)
 
-> ภาพ: หาดเซียะเหมินไป่เฉิง
- Xiamen
+> ภาพ: นางฟ้า
+ Bp
 
 
 รูปพร้อมลิงค์ (Image + Link)：
