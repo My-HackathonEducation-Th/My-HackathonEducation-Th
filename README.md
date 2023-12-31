@@ -107,7 +107,7 @@ git push -u origin <your_branch_name>
 ```
 > Follow your heart.
 
-![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/Li.jpg)
+![](https://i.pinimg.com/originals/86/8f/19/868f19259f3abd4ab89e51152376c3d0.jpg)
 
 > ภาพ: นางฟ้า
  Bp
@@ -123,7 +123,7 @@ git push -u origin <your_branch_name>
 
 > Follow your heart.
 
-![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/Li.jpg)
+![](https://i.pinimg.com/originals/86/8f/19/868f19259f3abd4ab89e51152376c3d0.jpg)
 
 > ภาพ: นางฟ้า
  Bp
