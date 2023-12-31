@@ -104,13 +104,15 @@ git push -u origin <your_branch_name>
 
 ### ตัวอย่างเช่น การวางคำสั่ง เช่นนี้ หมายถึง ต้องการ ใส่ลิ้งพร้อมรูปภาพ
 
+
 ```
+
 > Follow your heart.
 
-![](https://i.pinimg.com/originals/86/8f/19/868f19259f3abd4ab89e51152376c3d0.jpg)
+![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/liz.jpg)
 
 > ภาพ: นางฟ้า
- Bp
+ Liz
 
 
 รูปพร้อมลิงค์ (Image + Link)：
@@ -119,14 +121,15 @@ git push -u origin <your_branch_name>
 
 > ภาพ: หน้าปกอัลบั้มแรกของ Li Jian "Times Like Water"
 
+
 ```
 
 > Follow your heart.
 
-![](https://i.pinimg.com/originals/86/8f/19/868f19259f3abd4ab89e51152376c3d0.jpg)
+![](https://github.com/My-HackathonEducation-Th/My-HackathonEducation-Th/blob/main/liz.jpg)
 
 > ภาพ: นางฟ้า
- Bp
+ Liz
 
 
 รูปพร้อมลิงค์ (Image + Link)：
