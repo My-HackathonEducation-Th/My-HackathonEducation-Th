@@ -168,14 +168,15 @@ git push -u origin <your_branch_name>
 ```
 
 
-
+https://t.me/MintChatAI
 
 
 ---
 - เขียนผิดตกขอ อภัย
 - Cr พงศ์วุฒิ  
 - LINE : Pttlove23
-- Telegram https://t.me/Ciwallet +66840320193
+- Telegram https://t.me/MintChatAI
+ +66840320193
 
 ---
 
