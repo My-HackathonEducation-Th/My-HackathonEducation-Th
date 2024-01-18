@@ -13,6 +13,11 @@
 
 ---
 
+<p align="center">
+  <a href="#">
+
+  </a>
+</p>
 
 ## <p align="center">🐬 Hackathon Th Education
 
@@ -26,6 +31,30 @@
 </p>
 
 ---
+
+### Features
+
+- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
+- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
+- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
+- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
+- Support identification, interpretation, fliter of the HTML tags;
+- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
+- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+
+
+คุณสมบัติ
+- สนับสนุน Markdown มาตรฐาน / Commonmark และ GFM (GitHub Flavored Markdown);
+- เต็มรูปแบบ:ตัวอย่างเรียลไทม์ภาพ (ข้ามโดเมน) อัพโหลด, บล็อกข้อความ/รหัส preformatted, การแทรก/ตาราง, การพับ, ค้นหาแทนที่, อ่านเท่านั้น, ธีม, หลายภาษา, L18N, เอนทตี HTML, การเน้นไวยากรณ์รหัส .. ;
+- markdown extras: สนับสนุน TOC (สารบัญ), อิโมจิ, รายการงาน, @links ... ;
+- เข้ากันได้กับเบราว์เซอร์หลักทั้งหมด (IE8+), Zepto.js และ iPad 
+- สนับสนุนการระบุการตีความ, fliter ของแท็ก HTML;
+- รองรับ Tex (Expressions LaTex ขึ้นอยู่กับ Katex), ผังงานและแผนภาพลำดับของไวยากรณ์ขยาย Markdown;
+- รองรับ AMD/CMD (require.js & sea.js) โหลดเดอร์และปลั๊กอินตัวแก้ไขที่กำหนดเอง/กำหนดเอง;
+
+
+
+
 ### <p align="center">ขั้นตอนที่เรียบง่ายที่สุด สร้างที่เก็บใหม่ ตั้งชื่อที่เก็บ เเสดงที่เก็บ? มีให้เลือกเเบบส่วนตัว-สาธารณะ 
 
 - เลือก เพิ่ม README.nd
