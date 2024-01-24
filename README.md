@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## <p align="center">🐬 Hackathon Th Education
+
 
 ### <p align="center">  พื้นที่พิเศษ โครงการโอเพนซอร์ส My-HackathonEducation-Th:  
 ---
