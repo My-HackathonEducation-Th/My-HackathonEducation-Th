@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#">
-  <img src="./images/bfly.png" alt="Google" />
+  <img src="./mint_avatar/bfly.png" alt="Google" />
  </a>
 </p>
 
