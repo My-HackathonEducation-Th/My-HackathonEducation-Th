@@ -1,16 +1,10 @@
 
-
-
-<h3 align="left">Connect with ⚡ :</h3>
+<h3 align="left"> Hi ⚡💬 Jiraphinya & Pripramot</h3>
 <p align="left">
 </p>
 
-<h3 align="left">ทักษะเพียงเล็กน้อย ของฉัน:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  </p>
-
-
 <details>
-<summary>Phra Aphai Mani</summary>
+<summary>Phra Aphai Mani 💬  </summary>
 <p align="center">
   <a href="#">
   <img src="./mint_avatar/bfly2.png" alt="Google" />
@@ -21,12 +15,16 @@
 
 
 
+### <p align="center">I’m currently learning ...</h3>
 
+ 
 
-### <p align="center">  พื้นที่พิเศษ โครงการโอเพนซอร์ส My-HackathonEducation-Th:  
+  <p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  
 
 
 <p align="center">
+
+  
   <a href="#">
     <img src="https://streak-stats.demolab.com?user=ai-jiraphinya&theme=vue-dark&hide_border=%E0%B9%80%E0%B8%97%E0%B9%87%E0%B8%88&locale=th&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
   </a>
@@ -34,7 +32,8 @@
 
 ---
 
-### Features
+<details>
+<summary>Features 💬  about เปิดอ่านเเล้วปิดด้วยจ้า!</summary>Features
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
@@ -148,6 +147,7 @@
 
 > ภาพ: หน้าปกอัลบั้มแรกของ Li Jian "Times Like Water"
                 
+</details>
 
 ----
 <h3 align="center">นั้นละครับท่านผู้ชม 
