@@ -1,28 +1,20 @@
 
-
-
-
-
-
+<details>
+<summary>Phra Aphai Mani</summary>
 <p align="center">
   <a href="#">
   <img src="./mint_avatar/bfly2.png" alt="Google" />
  </a>
 </p>
+</details>
 
 
----
 
-<p align="center">
-  <a href="#">
-
-  </a>
-</p>
 
 
 
 ### <p align="center">  พื้นที่พิเศษ โครงการโอเพนซอร์ส My-HackathonEducation-Th:  
----
+
 
 <p align="center">
   <a href="#">
