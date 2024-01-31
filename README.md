@@ -34,7 +34,7 @@
  </a>
 </p>
 
-https://jiraphinya.nuxt.space/
+https://jiraphinya.nuxt.space
 
 <details>
 <summary>Phra Aphai Mani 💬 🦋</summary>
