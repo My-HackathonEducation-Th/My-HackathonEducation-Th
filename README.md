@@ -3,6 +3,22 @@
 <p align="left">
 </p>
 
+<h3 align="left"> Hi ⚡💬 tureid-content</h3>
+<p align="center">
+  <a href="#">
+  <img src="./mint_avatar/m1.png" alt="cover" />
+ </a>
+</p>
+
+
+<p align="center">
+  <a href="#">
+  <img src="./mint_avatar/m2.png" alt="cover" />
+ </a>
+</p>
+
+
+
 <details>
 <summary>Phra Aphai Mani 💬 🦋</summary>
 <p align="center">
