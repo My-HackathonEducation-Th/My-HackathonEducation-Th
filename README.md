@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 
-<h3 align="left"> Hi ⚡💬 tureid-content</h3>
+<h3 align="left"> 📺 ⚡💬 tureid-content</h3>
 
 
 [udonthani.vercel.app:](https://udonthani.vercel.app)
@@ -16,7 +16,7 @@
  </a>
 </p>
 
-<h3 align="left"> Hi ⚡💬 tureid-content</h3>
+<h3 align="left"> 📺 ⚡💬 tureid-content</h3>
 <p align="center">
   <a href="#">
   <img src="./mint_avatar/m4.png" alt="cover" />
