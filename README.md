@@ -6,7 +6,14 @@
 <h3 align="left"> Hi ⚡💬 tureid-content</h3>
 <p align="center">
   <a href="#">
-  <img src="./mint_avatar/m1.png" alt="cover" />
+  <img src="./mint_avatar/m3.png" alt="cover" />
+ </a>
+</p>
+
+<h3 align="left"> Hi ⚡💬 tureid-content</h3>
+<p align="center">
+  <a href="#">
+  <img src="./mint_avatar/m4.png" alt="cover" />
  </a>
 </p>
 
